@@ -114,6 +114,3 @@ This Real Estate Analysis Dashboard provides a detailed overview of property sal
 
 
 _"In real estate, every number tells a story — this dashboard makes sure management hears it."_
-
-
-_"Great coffee deserves great data — and great data deserves a good dashboard."_
